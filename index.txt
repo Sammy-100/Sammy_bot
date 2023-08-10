@@ -1,0 +1,33 @@
+ 1  c1
+    2  c
+    3  git-- version
+    4  git --version
+    5  git config --global user.name "Samiksha Kumari"
+    6  git config --global user.email "samikshak391@gmail.com"
+    7  git config --global user.name
+    8  git config --global --edit
+    9  mkdir LearnGit
+   10  cd LearnGit/
+   11  git init
+   12  ls
+   13  ls -a
+   14  mkdir leetcode
+   15  cd leetcode
+   16  git status
+   17  git add main.cpp
+   18  ls
+   19  echo('wtf')
+   20  echo("wtf")
+   21  echo VTU
+   22  ls-l
+   23  echo What's ur name
+   24  my name
+   25   '
+   26  ls
+   27  ls -a
+   28  git init
+   29  ls -a
+   30  touch index.html index.css
+   31  ls
+   32  code .
+   33  history
