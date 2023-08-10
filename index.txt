@@ -31,3 +31,30 @@
    31  ls
    32  code .
    33  history
+   ///////////
+   26  gitlog
+   27  git log
+   28  git status
+   29  git add .
+   30  git status
+   31  git status
+   32  git comit
+   33  git commit
+   34  git commit -m "Added history"
+   35  git log
+   36  git commit -m "New change"
+   37  git log
+   38  git status
+   39  git diff
+   40  git add.index.html
+   41  git add ./index.html
+   42  git status
+   43  git commit -m "Whatevwer"
+   44  git log
+   45  git checkout 85463286d7d2b63d6cd267060d73164bd22bdd1d
+   46  git log
+   47  git checkout c95255d6937f614d41deb152a5545809059ff131
+   48  git checkout master
+   49  git checkout c95255d6937f614d41deb152a5545809059ff131
+   50  clear
+   51  history
